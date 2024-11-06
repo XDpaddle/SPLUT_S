@@ -1,6 +1,6 @@
 ## Dependency
 
-- Python 3.6
+- PaddlePaddle
 - PyTorch 
 - glob
 - numpy
