@@ -1,7 +1,7 @@
 ## Dependency
 
+
 - PaddlePaddle
-- PyTorch 
 - glob
 - numpy
 - pillow
